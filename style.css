@@ -1,0 +1,27 @@
+*{margin: 0;
+padding: 0;
+}
+
+.bottom{display: flex;
+    align-items: center;
+    flex-direction: column; margin-top: 35%;
+    font-size: x-small;
+    color: white; font-style: italic;}
+.bottom{
+    z-index: 1;
+    position: absolute; font-size: 15px;}
+.shocase{
+    display: flex; justify-content: center;
+    align-items: center; margin:0; height: 80vh;}
+.vijay{
+    color: yellowgreen;}
+.bt{
+    width:25%;
+    color: brown;
+background:linear-gradient( to right, rgb(251, 255, 0), rgb(204, 0, 255));
+border: 0;
+font-weight: bold; color:rgb(66, 64, 199);border-radius: 3px;
+}
+.top{
+    width: 100%;
+}
